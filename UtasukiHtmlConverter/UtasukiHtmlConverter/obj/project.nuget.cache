@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mQdHBWZ/PfdGo8TncJn1Qc1EE39WPfRrF46NaZGO4ChKRGKkBIfc82xtFPjr9jNjpC27XtdYGgaSPVfkRDrg8A==",
+  "success": true,
+  "projectFilePath": "E:\\專案\\C#專案\\UtasukiHtmlConverter\\UtasukiHtmlConverter\\UtasukiHtmlConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512"
+  ],
+  "logs": []
+}
